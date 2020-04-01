@@ -1,0 +1,48 @@
+.header {
+ padding: 25px;
+ font-size: 30px;
+ font-family: cursive;
+ text-align: center;
+ background: azure;
+ color: #5792BC;
+}
+
+.post {
+ background-color: lightBlue;
+ padding: 20px;
+ margin: auto;
+ font-family: Courier New;
+ color:#5792BC;
+  width: 700px;
+ 
+}
+
+body {
+background-color: azure;
+}
+
+img {
+  display: block;
+height: 200px;
+width: 29%;
+ border-radius: 200px;
+ border: solid #5792BC;
+ margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fakek {
+text-align: center;
+}
+
+.dtext {
+display: block;
+margin-left: auto;
+margin-right: auto;
+text-align: center; 
+border: solid 2px; border-radius: 100px; 
+width: 55%; 
+font-family: Courier New;
+color: #5792BC;
+}
