@@ -44,7 +44,7 @@ width: 700px;
 }
 
 /* Media Queries: Tabled Portrait */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 360px) {
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
 }
