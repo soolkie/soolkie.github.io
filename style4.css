@@ -36,3 +36,7 @@ text-align: center;
 padding: 20px;
 width: 700px;
 }
+
+@-ms-viewport {
+  width: device-width ;
+}
