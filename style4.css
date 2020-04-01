@@ -36,14 +36,3 @@ text-align: center;
 padding: 20px;
 width: 700px;
 }
-
-@media screen and (max-width: 1060px) {
-    #primary { width:67%; }
-    #secondary { width:30%; margin-left:3%;}  
-}
-
-
-@media screen and (max-width: 200px) {
-    #primary { width:70%; }
-    #secondary { width:50%; margin:0; border:none; }
-}
